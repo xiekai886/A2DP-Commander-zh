@@ -1,0 +1,10 @@
+# Build
+bin/
+obj/
+*.user
+.vs/
+.idea/
+logs/
+*.log
+publish/
+Thumbs.db
